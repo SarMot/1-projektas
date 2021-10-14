@@ -85,6 +85,13 @@
                     Pirmas puslapis
                 </div>
 
+                <div class="my-routes-links">
+                    <a href={{ url('/pirmasispuslapis') }}>Pirmasis puslapis</a>
+                    /*arba kitu budu*/
+                    <a href="1psl">Pakartotina nuoroda puslapis</a>
+                    <a href="2psl">Antrasis puslapis</a>
+                </div>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
